@@ -1,0 +1,1 @@
+Ladda upp filerna till GitHub Pages och installera via Safari > Lägg till på hemskärmen.
